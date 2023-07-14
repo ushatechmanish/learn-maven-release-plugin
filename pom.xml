@@ -9,7 +9,7 @@
     </parent>
     <groupId>in.ushatech</groupId>
     <artifactId>learn-maven-release-plugin</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>learn-maven-release-plugin</name>
     <description>learn-maven-release-plugin</description>
     <properties>
@@ -87,7 +87,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/ushatechmanish/learn-maven-release-plugin.git</developerConnection>
-      <tag>learn-maven-release-plugin-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
